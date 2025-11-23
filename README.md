@@ -210,14 +210,14 @@ Step 8: Default Username And Password For User Is "aniket@demo.com" And "aniket"
 10. Ticket Booking History
 <img width="100%" alt="All Ticket Booking History" src="https://user-images.githubusercontent.com/34605595/232220491-3e7996cb-a54c-4375-a35a-6ab1d211a001.png">
 
-11. Fare Enquiry
+<!-- 11. Fare Enquiry
 <img alt="Fare Enquiry between stations" src="https://github.com/AniketGawai-sketch/Vityarthi-Train-Tricket-Reservation/blob/main/Screenshots/fareenquiry.png" width="100%">
 
 12. Change Password
 <img alt="Change user Password" src="https://github.com/AniketGawai-sketch/Vityarthi-Train-Tricket-Reservation/blob/main/Screenshots/passwordchange.png" width="100%">
 
 13. Add Trains By Admin
-<img alt="Admin Home" src="https://github.com/AniketGawai-sketch/Vityarthi-Train-Tricket-Reservation/blob/main/Screenshots/addtrains.png" width="100%">
+<img alt="Admin Home" src="https://github.com/AniketGawai-sketch/Vityarthi-Train-Tricket-Reservation/blob/main/Screenshots/addtrains.png" width="100%"> -->
 
 
 #### "Suggestions and project Improvement are Invited"
