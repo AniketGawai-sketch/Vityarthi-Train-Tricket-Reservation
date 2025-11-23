@@ -9,7 +9,7 @@
 	<!-- Error Handlers -->
 	<servlet>
 		<servlet-name>ErrorHandlerServlet</servlet-name>
-		<servlet-class>com.shashi.servlets.ErrorHandlerServlet</servlet-class>
+		<servlet-class>com.aniket.servlets.ErrorHandlerServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>ErrorHandlerServlet</servlet-name>
