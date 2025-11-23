@@ -161,7 +161,7 @@ Note: If any of the above commands fails, please try to fix it first and then pr
 ### ====== Importing and Running the Project Through Eclipse EE ===========
 Step 0: Open Eclipse Enterprise Edition. [Install if not available](https://www.youtube.com/watch?v=8aDsEV7txXE)
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/AniketGawai-sketch/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
 
 Step 2.A: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
 
@@ -211,15 +211,15 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 <img width="100%" alt="All Ticket Booking History" src="https://user-images.githubusercontent.com/34605595/232220491-3e7996cb-a54c-4375-a35a-6ab1d211a001.png">
 
 11. Fare Enquiry
-<img alt="Fare Enquiry between stations" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/fareenquiry.png" width="100%">
+<img alt="Fare Enquiry between stations" src="https://github.com/AniketGawai-sketch/Train-Ticket-Reservation-System/blob/master/Screenshots/fareenquiry.png" width="100%">
 
 12. Change Password
-<img alt="Change user Password" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/passwordchange.png" width="100%">
+<img alt="Change user Password" src="https://github.com/AniketGawai-sketch/Train-Ticket-Reservation-System/blob/master/Screenshots/passwordchange.png" width="100%">
 
 13. Add Trains By Admin
-<img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
+<img alt="Admin Home" src="https://github.com/AniketGawai-sketch/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
 
 
 #### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
+#### Aniket Gawai
+
